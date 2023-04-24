@@ -1,6 +1,7 @@
 # ResearchAI
 Leverage LLMs to accelerate literature reviews. The AI should take a reasearch question, survey the literature, and provide a summary of the literature as a whole. The AI should also be able to provide a summary of a given paper, and provide a list of papers that are most relevant to the research question.
 
+Note that while this is largely my own work, I am taking heavy inspiration from the AutoGPT project for some of the common functions.
 
 # Reading List
 
